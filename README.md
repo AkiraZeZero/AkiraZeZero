@@ -2,7 +2,7 @@
 <div align="left"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=I'm+a+Full-Stack+Software+Developer" alt="Typing SVG" /></a></div>
 
 ## About Me 😄
-✨ I’m currently looking for work as a ReactJS Frontend Developer ✨
+✨ I’m currently looking for work as a UI/UX ReactJS Frontend Developer ✨
 
 🎓 I'm currently learning ReactJS, Docker, and Typescript!
 
