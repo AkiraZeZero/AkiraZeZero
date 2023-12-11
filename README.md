@@ -2,9 +2,11 @@
 <div align="left"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=I'm+a+Full-Stack+Software+Developer" alt="Typing SVG" /></a></div>
 
 ## About Me 😄
-✨ I’m currently looking for work as a UI/UX ReactJS Frontend Developer ✨
+✨ I’m currently looking for work as a ReactJS Frontend Developer or as a UI/UX Designer ✨
 
 🎓 I'm currently learning ReactJS, Docker, and Typescript!
+
+😎 Check Out My Portfolio: https://main--webdevkiaraocasio.netlify.app/
 
 📫 Reach Me At: kiara.ocasio.rosado007@gmail.com
 
@@ -16,8 +18,6 @@
 
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kiara-ocasio-rosado-6263a0250/)
 
-## My Portfolio!
-https://main--webdevkiaraocasio.netlify.app/
 <!--
 **AkiraZeZero/AkiraZeZero** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
